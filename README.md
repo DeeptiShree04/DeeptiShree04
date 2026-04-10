@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hi there, I'm Deepti!
 
-<!--
-**DeeptiShree04/DeeptiShree04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA Student** | ☁️ **Cloud & Storage Enthusiast** | 💻 **Aspiring Software Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+* 🎓 Pursuing **Master of Computer Applications (MCA)** with specialization in **Storage & Cloud Technology**
+* 💡 Passionate about learning new technologies and building practical projects
+* 🌧️ I enjoy rainy days and peaceful vibes
+* 📚 Love reading novels, especially **dark romance**
+* 🎧 Music keeps me going — especially BTS 💜
+* 🤍 I feel connected to simplicity — *white represents me*
+
+---
+
+## 🚀 Skills & Technologies
+
+### 💻 Programming Languages
+
+* ☕ Java
+* 🐍 Python
+* 🌐 Basics of C / C++ (if applicable, edit if needed)
+
+### ☁️ Cloud & Tools
+
+* AWS (Beginner - Learning Phase)
+* Git & GitHub
+* VS Code / IntelliJ IDEA
+
+### 🧠 Core Concepts
+
+* Object-Oriented Programming (OOP)
+* Exception Handling
+* Basic Data Structures & Algorithms
+
+---
+
+## 📌 Projects
+
+* 🔹 *Cloud-based projects (in progress)*
+* 🔹 Java mini-projects (Exception Handling, Banking System, etc.)
+* 🔹 More coming soon...
+
+---
+
+## 🌱 Currently Learning
+
+* AWS Cloud Services
+* DevOps Basics
+* Real-world project building for placements
+
+---
+
+## 🎯 Career Goal
+
+To build a strong career in **cloud computing and software development**, and contribute to impactful real-world applications.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *(Add your link here)*
+* 📧 Email: *(Add your email here)*
+
+---
+
+## ✨ Fun Fact
+
+> I believe growth happens one step at a time — even small progress counts 💫
+
+---
+
+⭐ *Thanks for visiting my profile!*
