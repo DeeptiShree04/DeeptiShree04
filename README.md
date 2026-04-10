@@ -1,35 +1,34 @@
-# 👋 Hi there, I'm Deepti!
+# Hi there, I'm Deepti!
 
-🎓 **MCA Student** | ☁️ **Cloud & Storage Enthusiast** | 💻 **Aspiring Software Developer**
-
----
-
-## 🌸 About Me
-
-* 🎓 Pursuing **Master of Computer Applications (MCA)** with specialization in **Storage & Cloud Technology**
-* 💡 Passionate about learning new technologies and building practical projects
-* 🌧️ I enjoy rainy days and peaceful vibes
-* 📚 Love reading novels, especially **dark romance**
-* 🎧 Music keeps me going — especially BTS 💜
-* 🤍 I feel connected to simplicity — *white represents me*
+ **MCA Student** |  **Cloud & Storage Enthusiast** |  **Aspiring Software Developer**
 
 ---
 
-## 🚀 Skills & Technologies
+##  About Me
 
-### 💻 Programming Languages
+*  Pursuing **Master of Computer Applications (MCA)** with specialization in **Storage & Cloud Technology**
+*  Passionate about learning new technologies and building practical projects
+*  I enjoy rainy days and peaceful vibes
+*  Love reading novels
+*  Music keeps me going 
+*  I feel connected to simplicity 
 
-* ☕ Java
-* 🐍 Python
-* 🌐 Basics of C / C++ (if applicable, edit if needed)
+---
 
-### ☁️ Cloud & Tools
+##  Skills & Technologies
+###  Programming Languages
+
+*  Java
+*  Python
+*  Basics of C / C++ 
+
+###  Cloud & Tools
 
 * AWS (Beginner - Learning Phase)
 * Git & GitHub
 * VS Code / IntelliJ IDEA
 
-### 🧠 Core Concepts
+###  Core Concepts
 
 * Object-Oriented Programming (OOP)
 * Exception Handling
@@ -37,30 +36,30 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * AWS Cloud Services
 * DevOps Basics
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 To build a strong career in **cloud computing and software development**, and contribute to impactful real-world applications.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-* 💼 LinkedIn: *www.linkedin.com/in/deeptishree04*
-* 📧 Email: *deeptishree9704@gmail.com*
+*  LinkedIn: *www.linkedin.com/in/deeptishree04*
+*  Email: *deeptishree9704@gmail.com*
 
 ---
 
-## ✨ Fun Fact
+##  Fun Fact
 
 > I speak both Java and Python, so I can confuse bugs in two languages. 💫
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+ *Thanks for visiting my profile!*
