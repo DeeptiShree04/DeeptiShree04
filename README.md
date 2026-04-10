@@ -37,19 +37,10 @@
 
 ---
 
-## 📌 Projects
-
-* 🔹 *Cloud-based projects (in progress)*
-* 🔹 Java mini-projects (Exception Handling, Banking System, etc.)
-* 🔹 More coming soon...
-
----
-
 ## 🌱 Currently Learning
 
 * AWS Cloud Services
 * DevOps Basics
-* Real-world project building for placements
 
 ---
 
@@ -61,14 +52,14 @@ To build a strong career in **cloud computing and software development**, and co
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your link here)*
-* 📧 Email: *(Add your email here)*
+* 💼 LinkedIn: *www.linkedin.com/in/deeptishree04*
+* 📧 Email: *deeptishree9704@gmail.com*
 
 ---
 
 ## ✨ Fun Fact
 
-> I believe growth happens one step at a time — even small progress counts 💫
+> I speak both Java and Python, so I can confuse bugs in two languages. 💫
 
 ---
 
